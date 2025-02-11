@@ -1,8 +1,8 @@
-package variables
+package main
 
 import "fmt"
 
-func variables(){
+func main(){
 	//comentarios de linea
 	/* este es un 
 	   comentario
